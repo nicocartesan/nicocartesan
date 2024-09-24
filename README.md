@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nicocartesan
+- 👀 I’m interested in programming, books and basketball 
+- 🌱 I’m currently learning front end development 
+- 💞️ I’m looking to collaborate with someone on the same boat as me, to learn front end development together
